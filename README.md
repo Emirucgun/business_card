@@ -39,25 +39,19 @@ I combined the first information that I learned about React native in this proje
 
 ## Running the project
 
-Clone this repository :
+### Install Expo :
+https://docs.expo.dev/get-started/installation
+
+### When installation is complete, Download Expo Go to your phone :
+(So you can try on your phone)
+
+https://docs.expo.dev/get-started/expo-go
+
+### Finally clone this repository :
 
 ```
 git clone https://github.com/Emirucgun/business_card.git
 cd business_card
-```
-
-Install packages :
-
-```
-npm install
-```
-
-When installation is complete, run with version of your choice :
-
-```bash
-react-native run-ios
-# or
-react-native run-android
 ```
 
 ## Last words from me:
