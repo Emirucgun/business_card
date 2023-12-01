@@ -43,7 +43,7 @@ I combined the first information that I learned about React native in this proje
 https://docs.expo.dev/get-started/installation
 
 ### When installation is complete, Download Expo Go to your phone :
-(So you can try on your phone)
+(So you can try it on your phone)
 
 https://docs.expo.dev/get-started/expo-go
 
